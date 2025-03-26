@@ -1,7 +1,7 @@
-POST https://helpme.apis.lk/api/service/filter HTTP/1.1
+POST https://helpme.apis.lk/api/service/filter?title=house HTTP/1.1
 content-type: application/json
 
-{
-    "title": "House Cleaning"
+# {
+#     "title": "House Cleaning"
    
-}
+# }
